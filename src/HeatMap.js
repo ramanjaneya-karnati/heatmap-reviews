@@ -28,9 +28,9 @@ export default class HeatMap extends Component {
                                 var scrollw = false;
                                 var mapStyle = [];
                             </script>
-                            <link href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.css"
+                            <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.css"
                                   rel="stylesheet"/>
-                            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
                             <link href="https://d2gwjd5chbpgug.cloudfront.net/v3/css/nnplugin.min.css" rel="stylesheet"
                                   type="text/css"/>
                             <script src="https://d2gwjd5chbpgug.cloudfront.net/v3/scripts/heatmap.min.js"></script>
